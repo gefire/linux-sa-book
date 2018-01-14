@@ -16,4 +16,7 @@
   * nginx安装及配置
   * php-fpm安装及配置
   * mysql安装及配置
+* [shell基础](shellji-chu.md)
+* python基础
+* [常见案例](chang-jian-an-li.md)
 
