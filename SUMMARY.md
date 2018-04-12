@@ -4,9 +4,8 @@
 * [linux运维介绍](yun-wei-jie-shao.md)
   * [linux运维工作](linuxyun-wei-gong-zuo.md)
   * [学习路线及工具](yun-wei-jie-shao/xue-xi-lu-xian-ji-gong-ju.md)
-* [虚拟机](di-er-zhang-xu-ni-ji-xue-xi.md)
-  * [Vmware Workstaion](di-er-zhang-xu-ni-ji-xue-xi/vmware-workstaion.md)
-  * [VirtualBox](di-er-zhang-xu-ni-ji-xue-xi/virtualbox.md)
+* [linux安装](linuxan-zhuang.md)
+  * 虚拟机
 * [linux及基础命令](linuxji-ji-chu-ming-ling.md)
   * 系统安装
   * [基本操作](linuxji-ji-chu-ming-ling/ji-ben-cao-zuo.md)
